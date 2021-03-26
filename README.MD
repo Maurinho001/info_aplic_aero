@@ -1,2 +1,2 @@
 * Mauro Jorge Ferreira Soares
-* 1460682113026"# Mauro" 
+* 1460682113026
